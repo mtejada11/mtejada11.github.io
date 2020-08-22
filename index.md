@@ -7,8 +7,8 @@ These are the open source and open hardware projects that I've published in GitH
 <a href="https://github.com/mtejada11/BBGame114">
 <img src="https://github.com/mtejada11/BBGame114/raw/doc/Build/BBGame114.png" width=380><br>
 <b>BBGame114</b>
-</a>
-: This is an Arduino-based game device built on a breadboard. It consists of an 11x4 LED matrix, three input 
+</a><br>
+This is an Arduino-based game device built on a 830-point breadboard. It consists of an 11x4 LED matrix, three input 
 buttons and a piezoelectric speaker.
 
 <br><br>
@@ -16,16 +16,16 @@ buttons and a piezoelectric speaker.
 <a href="https://github.com/mtejada11/BBGame115">
 <img src="https://github.com/mtejada11/BBGame115/raw/master/PCB/bbgame115_pcb_assembled.png" width=380><br>
 <b>BBGame115</b>
-</a>
-: This is an Arduino-based game device built on a PCB. It consists of an 11x5 LED matrix, three input buttons and a piezoelectric speaker.
+</a><br>
+This is an Arduino-based game device built on a PCB. It consists of an 11x5 LED matrix, three input buttons and a piezoelectric speaker.
 
 <br><br>
 
 <a href="https://github.com/mtejada11/BBMatrix54">
 <img src="https://github.com/mtejada11/BBMatrix54/raw/doc/Build/BBMatrix54.png" width=190><br>
 <b>BBMatrix54</b>
-</a>
-: This is a small 5x4 LED matrix circuit built on mini 170-point breadboard and controlled by an Arduino Nano processor. 
+</a><br>
+This is a small 5x4 LED matrix circuit built on mini 170-point breadboard and controlled by an Arduino Nano processor. 
 It is a good device for coding exercises.
 
 </td><td style="border:none;" width=20></td><td style="border:none;" width=390>
@@ -35,8 +35,8 @@ It is a good device for coding exercises.
 <a href="https://github.com/mtejada11/BBGame248">
 <img src="https://github.com/mtejada11/BBGame248/raw/master/Build/BBGame248.png" width=380><br>
 <b>BBGame248</b>
-</a>
-: This is an Arduino-based game device built on a breadboard. It consists of an 24x8 LED matrix, four input buttons 
+</a><br>
+This is an Arduino-based game device built on a breadboard. It consists of an 24x8 LED matrix, four input buttons 
 and a piezoelectric speaker. Three 8x8 LED matrix modules with MAX7219 controllers make up the 24x8 LED matrix. <i>CircuitPython version coming soon.</i>
 
 
@@ -45,8 +45,9 @@ and a piezoelectric speaker. Three 8x8 LED matrix modules with MAX7219 controlle
 <a href="https://github.com/mtejada11/ElecMB">
 <img src="https://github.com/mtejada11/ElecMB/raw/master/Circuit_2_BreadboardLayout.png" width=250><br>
 <b>ElecMB</b>
-</a>
-: Code and circuit schematics used for Boy Scouts Electronics Merit Badge class. These coding exercises and circuits are an introduction to Arduino and electronics.
+</a><br>
+Code and circuit schematics used for Boy Scouts Electronics Merit Badge class. These coding exercises and circuits are an introduction to Arduino and electronics.
 
 
 </td></tr></table>
+
