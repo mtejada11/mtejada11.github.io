@@ -53,4 +53,15 @@ Code and circuit schematics used for teaching the Boy Scouts Electronics Merit B
 
 ## Videos
 
+<table style="border:none;"><tr style="border:none;vertical-align:top;"><td style="border:none;vertical-align:top;" width=390>
+
 <iframe src="https://player.vimeo.com/video/450081187" width=390 height=219 frameborder=0 allow="autoplay;fullscreen" allowfullscreen></iframe><br>
+<i>BBGame114 demo showing LED test, scrolling text and game</i>
+
+</td><td style="border:none;" width=20></td><td style="border:none;vertical-align:top;" width=390>
+
+<iframe src="https://player.vimeo.com/video/450582621" width=390 height=219 frameborder=0 allow="autoplay;fullscreen" allowfullscreen></iframe><br>
+<i>BBGame248 prototype demo</i>
+
+</td></tr></table>
+
