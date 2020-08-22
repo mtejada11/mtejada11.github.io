@@ -1,4 +1,4 @@
-## Mauricio's Projects
+# Mauricio's Projects
 
 These are the open source and open hardware projects that I've published in GitHub:
 
@@ -15,9 +15,9 @@ buttons and a piezoelectric speaker.
 
 <a href="https://github.com/mtejada11/BBGame115">
 <img src="https://github.com/mtejada11/BBGame115/raw/master/PCB/bbgame115_pcb_assembled.png" width=380><br>
-<b>BBGame115</b>
+<b>BBGame115 PCB</b>
 </a><br>
-This is an Arduino-based game device built on a PCB. It consists of an 11x5 LED matrix, three input buttons and a piezoelectric speaker.
+This is an Arduino-based game device built on a printed circuit board. It consists of an 11x5 LED matrix, three input buttons and a piezoelectric speaker.
 
 <br><br>
 
@@ -26,7 +26,7 @@ This is an Arduino-based game device built on a PCB. It consists of an 11x5 LED 
 <b>BBMatrix54</b>
 </a><br>
 This is a small 5x4 LED matrix circuit built on mini 170-point breadboard and controlled by an Arduino Nano processor. 
-It is a good device for coding exercises.
+It's a good device for coding exercises.
 
 </td><td style="border:none;" width=20></td><td style="border:none;" width=390>
 
@@ -46,8 +46,11 @@ and a piezoelectric speaker. Three 8x8 LED matrix modules with MAX7219 controlle
 <img src="https://github.com/mtejada11/ElecMB/raw/master/Circuit_2_BreadboardLayout.png" width=250><br>
 <b>ElecMB</b>
 </a><br>
-Code and circuit schematics used for Boy Scouts Electronics Merit Badge class. These coding exercises and circuits are an introduction to Arduino and electronics.
+Code and circuit schematics used for teaching the Boy Scouts Electronics Merit Badge class. These coding exercises and circuits are an introduction to Arduino and electronics.
 
 
 </td></tr></table>
 
+## Videos
+
+<iframe src="https://player.vimeo.com/video/450081187" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe><br>
