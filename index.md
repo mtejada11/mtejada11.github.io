@@ -4,8 +4,11 @@ These are the open source and open hardware projects that I've published in GitH
 
 <table><tr><td width=390>
 
-[<img src="https://github.com/mtejada11/BBGame114/raw/doc/Build/BBGame114.png" width=380><br>BBGame114](https://github.com/mtejada11/BBGame114):
-This is an Arduino-based game device built on a breadboard. It consists of an 11x4 LED matrix, three input 
+<a href="https://github.com/mtejada11/BBGame114">
+<img src="https://github.com/mtejada11/BBGame114/raw/doc/Build/BBGame114.png" width=380><br>
+BBGame114
+</a>
+: This is an Arduino-based game device built on a breadboard. It consists of an 11x4 LED matrix, three input 
 buttons and a piezoelectric speaker.
 
 <br><br>
