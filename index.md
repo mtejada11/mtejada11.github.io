@@ -11,7 +11,7 @@ These are the open source and open hardware projects that I've published in GitH
 This is an Arduino-based game device built on a 830-point breadboard. It consists of an 11x4 LED matrix, three input 
 buttons and a piezoelectric speaker.
 
-<br><br>
+<br><br><br>
 
 <a href="https://github.com/mtejada11/BBGame115">
 <img src="https://github.com/mtejada11/BBGame115/raw/master/PCB/bbgame115_pcb_assembled.png" width=380><br>
@@ -19,7 +19,7 @@ buttons and a piezoelectric speaker.
 </a><br>
 This is an Arduino-based game device built on a printed circuit board. It consists of an 11x5 LED matrix, three input buttons and a piezoelectric speaker.
 
-<br><br>
+<br><br><br>
 
 <a href="https://github.com/mtejada11/BBMatrix54">
 <img src="https://github.com/mtejada11/BBMatrix54/raw/doc/Build/BBMatrix54.png" width=190><br>
@@ -40,7 +40,7 @@ This is an Arduino-based game device built on a breadboard. It consists of an 24
 and a piezoelectric speaker. Three 8x8 LED matrix modules with MAX7219 controllers make up the 24x8 LED matrix. <i>CircuitPython version coming soon.</i>
 
 
-<br><br>
+<br><br><br>
 
 <a href="https://github.com/mtejada11/ElecMB">
 <img src="https://github.com/mtejada11/ElecMB/raw/master/Circuit_2_BreadboardLayout.png" width=250><br>
