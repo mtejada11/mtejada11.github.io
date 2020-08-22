@@ -53,4 +53,4 @@ Code and circuit schematics used for teaching the Boy Scouts Electronics Merit B
 
 ## Videos
 
-<iframe src="https://player.vimeo.com/video/450081187" width="390" frameborder="0" allow="autoplay;fullscreen" allowfullscreen></iframe><br>
+<iframe src="https://player.vimeo.com/video/450081187" width=390 height=219 frameborder=0 allow="autoplay;fullscreen" allowfullscreen></iframe><br>
