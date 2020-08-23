@@ -27,6 +27,8 @@ school students.
 * [BBGame114 Day 3 Slides](http://bit.ly/2DyE0GX)
 * [BBGame114 Reference Slides](http://bit.ly/2GPc5om)
 
+<img src="BBGame114_photo.jpg" width=600px>
+
 ## How to Teach
 
 * Plan three days of 6 hours, or an equivalent or appropriate amount of time to teach
