@@ -32,7 +32,7 @@ It's a good device for coding exercises.
 
 <br>
 
-<a href="https://github.com/mtejada11/BBGame248">
+<a href="https://mtejada11.github.io/bbgame248">
 <img src="https://github.com/mtejada11/BBGame248/raw/master/Build/BBGame248.png" width=380px><br>
 <b>BBGame248</b>
 </a><br>
