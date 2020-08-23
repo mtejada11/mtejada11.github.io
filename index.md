@@ -4,7 +4,7 @@ These are open source and open hardware projects that I've published in GitHub. 
 
 <table style="border:none;margin:0px;padding:0px;"><tr style="border:none;margin:0px;padding:0px;"><td style="border:none;margin:0px;padding:0px;" width=390px>
 
-<a href="https://github.com/mtejada11/BBGame114">
+<a href="https://mtejada11.github.io/bbgame114">
 <img src="https://github.com/mtejada11/BBGame114/raw/doc/Build/BBGame114.png" width=380px><br>
 <b>BBGame114</b>
 </a><br>
