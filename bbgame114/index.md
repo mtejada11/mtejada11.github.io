@@ -1,4 +1,4 @@
-# BBGame114: Breadboard Game 11x4
+# BBGame114: Breadboard Game with 11x4 Matrix
 
 BBGame114 is handheld game device that consists of an Arduino Nano processor board, an 11x4 LED matrix display, three input buttons and a piezoelectric speaker. This device can be programmed using the Arduino IDE. The [BBGame114 GitHub repository](https://github.com/mtejada11/BBGame114) at [https://github.com/mtejada11/BBGame114](https://github.com/mtejada11/BBGame114) contains the BBGame114Lib library that can be used for programming this device, and it also contains a Space Invaders-like game.
 
@@ -35,7 +35,7 @@ school students.
 * Plan on additional instructors, on the order of one instructor per 3 to 5 students
 * Purchase sufficient electronics parts for all students, all instructors and also for some spare kits
 * Prepare each student's kit of parts beforehand so that this does not take up class time
-* Additional instructors should build the circuit once before the class and also try out the coding exercises
+* All instructors should build the circuit once before the class and also try out the coding exercises
 <br>
 <i>Special thanks to S. Ramakrishnan, R. Hunter, C. Chiock, T. Veneruso, L. De Pavia for their valuable help in teaching and making this class happen.</i>
 
