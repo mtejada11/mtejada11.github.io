@@ -16,12 +16,11 @@ The [BBGame248 GitHub repository](https://github.com/mtejada11/BBGame248) at [ht
 ## How to Build
 
 Building this breadboard game will take several hours, and this will vary based on the experience you have with basic electronics. 
-The links below give an overview of this project, 2 sets of slides and handouts to print that are used for two days in a coding/electronics class for high 
-school students.
+The links below give an overview of this project, 2 sets of slides and handouts to print that are used for two days in a coding/electronics class for high school students.
 * [Overview of BBGame248 project](http://bit.ly/2PxNZ4p)
 * [BBGame114 Day 1 Slides](http://bit.ly/2JHTufC)
 * [BBGame114 Day 2 Slides](http://bit.ly/2IjOhJl)
-* (Handouts)(https://bit.ly/3aOGTTs) with illustrations and circuit diagrams for build steps
+* [Handouts](https://bit.ly/3aOGTTs) with illustrations and circuit diagrams for build steps
 
 <img src="BBGame248_photo.jpg" width=600px><br>
 <i>(Photo of first prototype, wiring is slightly different)</i>
@@ -35,8 +34,8 @@ school students.
 * All instructors should build the circuit once before the class and also try out the coding exercises
 
 These materials can be printed for the class:
-* (Handouts)(https://bit.ly/3aOGTTs) with illustrations and circuit diagrams for build steps
-* (Detailed build steps and teaching points)[https://bit.ly/3giUL9X] for instructors to guide build and learning
+* [Handouts](https://bit.ly/3aOGTTs) with illustrations and circuit diagrams for build steps
+* [Detailed build steps and teaching points](https://bit.ly/3giUL9X) for instructors to guide build and learning
 
 <i>Special thanks to Y. Hsing for the valuable help in teaching and making this class happen.</i>
 
