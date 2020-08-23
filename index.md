@@ -2,7 +2,7 @@
 
 These are the open source and open hardware projects that I've published in GitHub:
 
-<table style="border:none;"><tr style="border:none;"><td style="border:none;" width=390>
+<table style="border:none;margin:0px;padding:0px;"><tr style="border:none;margin:0px;padding:0px;"><td style="border:none;margin:0px;padding:0px;" width=390>
 
 <a href="https://github.com/mtejada11/BBGame114">
 <img src="https://github.com/mtejada11/BBGame114/raw/doc/Build/BBGame114.png" width=380><br>
@@ -28,7 +28,7 @@ This is an Arduino-based game device built on a printed circuit board. It consis
 This is a small 5x4 LED matrix circuit built on mini 170-point breadboard and controlled by an Arduino Nano processor. 
 It's a good device for coding exercises.
 
-</td><td style="border:none;" width=20></td><td style="border:none;" width=390>
+</td><td style="border:none;margin:0px;padding:0px;" width=20></td><td style="border:none;margin:0px;padding:0px;" width=390>
 
 <br>
 
