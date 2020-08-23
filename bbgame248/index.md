@@ -38,7 +38,6 @@ These materials can be printed for the class:
 * (Handouts)(https://bit.ly/3aOGTTs) with illustrations and circuit diagrams for build steps
 * (Detailed build steps and teaching points)[https://bit.ly/3giUL9X] for instructors to guide build and learning
 
-<br>
 <i>Special thanks to Y. Hsing for the valuable help in teaching and making this class happen.</i>
 
 # BBGame248 Arduino Library
