@@ -22,7 +22,8 @@ school students.
 * [BBGame114 Day 1 Slides](http://bit.ly/2JHTufC)
 * [BBGame114 Day 2 Slides](http://bit.ly/2IjOhJl)
 
-<img src="BBGame248_photo.jpg" width=600px>
+<img src="BBGame248_photo.jpg" width=600px><br>
+<i>(Photo of first prototype, wiring is slightly different)</i>
 
 ## How to Teach
 
