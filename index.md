@@ -67,26 +67,10 @@ Code and circuit schematics used for teaching the Boy Scouts Electronics Merit B
 
 ## How to Build These Projects
 
-Each project is mainly a source code repository, but in the repository's README.md file or wikie, there will be a link to wiki pages or slides with build instructions. For example, see the [BBMatrix54 Build Instructions](http://bit.ly/2JhGEmI) slides. All these circuits have been built and tested, and the code has also been tested and debugged. 
+Each project is mainly a source code repository, but in the repository's README.md file or wiki, there will be a link to wiki pages or slides with build instructions. For example, see the [BBMatrix54 Build Instructions](http://bit.ly/2JhGEmI) slides. All these circuits have been built and tested, and the code has also been tested and debugged. <i>These projects and web pages are updated from time to time with improvements.</i>
 
 ## How to Use These Projects for Teaching
 
+I have taught coding and electronics classes using these projects. The steps to build each project are prepared taking into account that it is a learning process. If you wish to teach with these projects, I recommend that reviewing all the material and then building the circuit and running the code beforehand. Some of the projects include step-by-step coding exercises that show how code can control the circuits. Where possible, I have included more information related to teaching a project.
 
-
-
-<div id="disqus_thread"></div>
-<script>
-
-var disqus_config = function () {
-this.page.url = https://mtejada11.github.io/;  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = MTEJADA11_GITHUB_IO; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://mauriciosprojects.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% include disqus.html %}
