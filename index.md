@@ -1,6 +1,6 @@
 # Mauricio's Projects
 
-These are the open source and open hardware projects that I've published in GitHub:
+These are open source and open hardware projects that I've published in GitHub. :
 
 <table style="border:none;margin:0px;padding:0px;"><tr style="border:none;margin:0px;padding:0px;"><td style="border:none;margin:0px;padding:0px;" width=390px>
 
@@ -25,7 +25,7 @@ This is an Arduino-based game device built on a printed circuit board. It consis
 <img src="https://github.com/mtejada11/BBMatrix54/raw/doc/Build/BBMatrix54.png" width=190px><br>
 <b>BBMatrix54</b>
 </a><br>
-This is a small 5x4 LED matrix circuit built on mini 170-point breadboard and controlled by an Arduino Nano processor. 
+This is a small 5x4 LED matrix circuit built on mini 400-point breadboard and controlled by an Arduino Nano processor. 
 It's a good device for coding exercises.
 
 </td><td style="border:none;margin:0px;padding:0px;" width=40px></td><td style="border:none;margin:0px;padding:0px;" width=390px>
@@ -65,3 +65,28 @@ Code and circuit schematics used for teaching the Boy Scouts Electronics Merit B
 
 </td></tr></table>
 
+## How to Build These Projects
+
+Each project is mainly a source code repository, but in the repository's README.md file or wikie, there will be a link to wiki pages or slides with build instructions. For example, see the [BBMatrix54 Build Instructions](http://bit.ly/2JhGEmI) slides. All these circuits have been built and tested, and the code has also been tested and debugged. 
+
+## How to Use These Projects for Teaching
+
+
+
+
+<div id="disqus_thread"></div>
+<script>
+
+var disqus_config = function () {
+this.page.url = https://mtejada11.github.io/;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = MTEJADA11_GITHUB_IO; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://mauriciosprojects.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
