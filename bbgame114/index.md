@@ -37,6 +37,7 @@ school students.
 * Prepare each student's kit of parts beforehand so that this does not take up class time
 * All instructors should build the circuit once before the class and also try out the coding exercises
 <br>
+<br>
 <i>Special thanks to S. Ramakrishnan, R. Hunter, C. Chiock, T. Veneruso, L. De Pavia for their valuable help in teaching and making this class happen.</i>
 
 ## BBGame114 Arduino Library
