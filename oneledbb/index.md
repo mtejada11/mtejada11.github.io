@@ -54,6 +54,13 @@ Add CR2032 coin cell to complete the one LED circuit<br>
 <br>
 
 </td></tr>
+
+<tr><td width="25%" style="border:none;" valign="middle">
+&nbsp;
+</td><td style="border:none;" valign="middle">
+&nbsp;
+</td></tr>
+
 <tr><td width="25%" style="border:none;" valign="middle">
 
 <b>STEP 3</b><br>
