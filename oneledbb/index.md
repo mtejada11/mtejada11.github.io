@@ -4,19 +4,19 @@ This is a quick educational project than can be an introduction to electronics. 
 
 <table>
   
-<tr><td width=20% valign=top>
+<tr><td width="20%" valign="top">
 E</td><td>
 D</td></tr>
 
-<tr><td width=20% valign=top>
+<tr><td width="20%" valign="top">
 F</td><td>
 C</td></tr>
 
-<tr><td width=20% valign=top>
+<tr><td width="20%" valign="top">
 G</td><td>
 B</td></tr>
 
-<tr><td width=20% valign=top>
+<tr><td width="20%" valign="top">
 H</td><td>
 A</td></tr>
 </table>
