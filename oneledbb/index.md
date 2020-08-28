@@ -17,7 +17,7 @@ PARTS<br>
 <br><br>
 </td></tr>
 
-<tr bgcolor="#ff0000" style="border:none;margin:0px;padding:0px;"><td width=20% valign=top style="margin:0px;padding:0px;">
+<tr style="border:none;margin:0px;padding:0px;"><td width=20% valign=top style="margin:0px;padding:0px;">
 STEP 1<br>Assemble parts on the mini breadboard
 </td><td style="margin:0px;padding:0px;">
 <img src="oneledbb_step2_build.png">
@@ -32,12 +32,13 @@ STEP 2<br>Complete the one LED circuit
 </td></tr>
 
 <tr style="border:none;"><td width=20% valign=top>
+
 STEP 3<br>Turn switch on to test
 </td><td>
 <img src="oneledbb_step4_test.png">
 <br><br>
+  
 </td></tr>
-
 </table>
 
 # How to build this
