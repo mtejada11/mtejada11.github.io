@@ -4,7 +4,7 @@ This is a quick educational project than can be an introduction to electronics. 
 
 <table>
   
-<tr style="border:none;margin:0px;padding:0px;"><td width=20% valign=top>
+<tr><td width=20% valign=top>
 PARTS<br>
 - CR2032 coin cell <br>
 - coin cell holder <br>
@@ -17,21 +17,21 @@ PARTS<br>
 <br><br>
 </td></tr>
 
-<tr style="border:none;margin:0px;padding:0px;"><td width=20% valign=top style="margin:0px;padding:0px;">
+<tr><td width=20% valign=top>
 STEP 1<br>Assemble parts on the mini breadboard
 </td><td style="margin:0px;padding:0px;">
 <img src="oneledbb_step2_build.png">
 <br><br>
 </td></tr>
 
-<tr style="border:none;"><td width=20% valign=top>
+<tr><td width=20% valign=top>
 STEP 2<br>Complete the one LED circuit
 </td><td>
 <img src="oneledbb_step3_done.png">
 <br><br>
 </td></tr>
 
-<tr style="border:none;"><td width=20% valign=top>
+<tr><td width=20% valign=top>
 
 STEP 3<br>Turn switch on to test
 </td><td>
@@ -43,7 +43,7 @@ STEP 3<br>Turn switch on to test
 
 # How to build this
 
-Obtain the necessary parts and build as shown above.
+Obtain the necessary parts and build as shown above. These parts can be purchased on 
 
 # How to teach this 
 
