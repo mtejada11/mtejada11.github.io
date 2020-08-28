@@ -2,7 +2,7 @@
 
 These are open source and open hardware projects that I've published on GitHub.
 
-<table style="border:none;margin:0px;padding:0px;"><tr style="border:none;margin:0px;padding:0px;"><td style="border:none;margin:0px;padding:0px;" width=390px>
+<table style="border:none;margin:0px;padding:0px;"><tr style="border:none;margin:0px;padding:0px;"><td style="border:none;margin:0px;padding:0px;" width=390px valign="top">
 
 <a href="https://mtejada11.github.io/bbgame114">
 <img src="https://github.com/mtejada11/BBGame114/raw/doc/Build/BBGame114.png" width=380px><br>
@@ -28,8 +28,11 @@ This is an Arduino-based game device built on a printed circuit board. It consis
 This is a small 5x4 LED matrix circuit built on mini 400-point breadboard and controlled by an Arduino Nano processor. 
 It's a good device for coding exercises.
 
-</td><td style="border:none;margin:0px;padding:0px;" width=40px></td><td style="border:none;margin:0px;padding:0px;" width=390px>
+</td><td style="border:none;margin:0px;padding:0px;" width=40px></td><td style="border:none;margin:0px;padding:0px;" width=390px valign="top">
 
+<br>
+<br>
+<br>
 <br>
 
 <a href="https://mtejada11.github.io/bbgame248">
