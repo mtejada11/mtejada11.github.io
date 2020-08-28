@@ -2,7 +2,7 @@
 
 This is a quick educational project than can be an introduction to electronics. This project only takes a few minutes to assemble. It's also a good, quick project for a large group activity.
 
-<table style="border:none;">
+<table>
   
 <tr style="border:none;margin:0px;padding:0px;"><td width=20% valign=top>
 PARTS<br>
