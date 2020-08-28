@@ -2,8 +2,8 @@
 
 This is a quick educational project than can be an introduction to electronics. This project only takes a few minutes to assemble. It's also a good, quick project for a large group activity.
 
-<table style="border:none;">
-<tr><td width="25%" valign="top">
+<table>
+<tr><td width="25%" style="border:none;" valign="top">
 
 <br>
 <b>PARTS</b><br>
@@ -17,13 +17,13 @@ This is a quick educational project than can be an introduction to electronics. 
 - 5mm LED <br>
 <br>
 <b>Note:</b> 22 AWG solid code works best for breadboards<br>
-</td><td>
+</td><td style="border:none;" valign="top">
 
 <img src="oneledbb_step1_parts.png">
 <br><br>
   
 </td></tr>
-<tr><td width="25%" valign="top">
+<tr><td width="25%" style="border:none;" valign="top">
 
 <br>
 <b>STEP 1</b><br>
@@ -32,13 +32,13 @@ Assemble parts on the mini breadboard<br>
 <br>
 <b>Note:</b> Insert parts as indicated by the column numbers in the diagram<br>
 
-</td><td>
+</td><td style="border:none;" valign="top">
 
 <img src="oneledbb_step2_build.png">
 <br><br>
 
 </td></tr>
-<tr><td width="25%" valign="top">
+<tr><td width="25%" style="border:none;" valign="top">
 
 <br>
 <b>STEP 2</b><br>
@@ -47,13 +47,13 @@ Add CR2032 coin cell to complete the one LED circuit<br>
 <br>
 <b>Note:</b> Make sure positive (+) side of coin cell faces up<br>
 
-</td><td>
+</td><td style="border:none;" valign="top">
 
 <img src="oneledbb_step3_done.png">
 <br><br>
 
 </td></tr>
-<tr><td width="25%" valign="top">
+<tr><td width="25%" style="border:none;" valign="top">
 
 <br>
 <b>STEP 3</b><br>
@@ -62,7 +62,7 @@ Turn switch on to test<br>
 
 <p style="color:red;"><b>Electric current will flow in direction of the red arrows</b></p><br>
 
-</td><td>
+</td><td style="border:none;" valign="top">
 
 <img src="oneledbb_step4_test.png">
 <br><br>
