@@ -43,7 +43,9 @@ STEP 3<br>Turn switch on to test
 
 # How to build this
 
-Obtain the necessary parts and build as shown above. These parts can be purchased on 
+Obtain the necessary parts and build as shown above. These parts can be purchased on Amazon.com. Search for "2032 coin cell", "2032 coin cell holder", "170 point breadboard", "mini SPDT switch SS12D00G3" and "5mm LED". Some points to take into account: (1) coin cell holder should not have a strong clip that will make it difficult to insert remove the coin cell, (2) SPDT switch should only have three pins an no other protrusions, and the pins should be 0.1" apart, (3) LED can generally be any color 5mm LED.
+
+Note that a current limiting resistor is not needed for the LED in this configuration. The reason that CR2032 coin cell batteries have internal resistance and have a voltage that is close to the LED's forward voltage. (With other types of batteries or power sources, a current limiting resistor is required for an LED.)
 
 # How to teach this 
 
