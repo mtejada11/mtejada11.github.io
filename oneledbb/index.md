@@ -7,14 +7,16 @@ This is a quick educational project than can be an introduction to electronics. 
 
 <br>
 PARTS<br>
+
 - CR2032 coin cell <br>
 - coin cell holder <br>
 - double-side tape <br>
-- 0.9&quot; 22 AWG solid code wire <br>
-- 1.0&quot; 22 AWG solid code wire <br>
+- 0.9&quot; wire <br>
+- 1.0&quot; wire <br>
 - SWDT switch <br>
 - 5mm LED <br>
-
+<br>
+Note: 22 AWG solid code works best for breadboards<br>
 </td><td>
 
 <img src="oneledbb_step1_parts.png">
@@ -24,7 +26,9 @@ PARTS<br>
 <tr><td width="25%" valign="top">
 
 <br>
-STEP 1<br>Assemble parts on the mini breadboard
+STEP 1<br>Assemble parts on the mini breadboard<br>
+<br>
+Note: Make sure parts are inserted in exact same location as diagram<br>
 
 </td><td>
 
@@ -35,7 +39,9 @@ STEP 1<br>Assemble parts on the mini breadboard
 <tr><td width="25%" valign="top">
 
 <br>
-STEP 2<br>Complete the one LED circuit
+STEP 2<br>Add CR2032 coin cell to complete the one LED circuit<br>
+<br>
+Note: Make sure positive (+) side of coin cell faces up<br>
 
 </td><td>
 
@@ -46,7 +52,9 @@ STEP 2<br>Complete the one LED circuit
 <tr><td width="25%" valign="top">
 
 <br>
-STEP 3<br>Turn switch on to test
+STEP 3<br>Turn switch on to test<br>
+<br>
+<p style="color:red;">Electrical current will flow in direction of red arrows</p><br>
 
 </td><td>
 
