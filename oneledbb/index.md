@@ -24,8 +24,8 @@ A</td></tr>
 
 
 <table>
+<tr><td width="20%" valign="top">
   
-<tr><td width=20% valign=top>
 PARTS<br>
 - CR2032 coin cell <br>
 - coin cell holder <br>
@@ -33,29 +33,39 @@ PARTS<br>
 - 1.0&quot; wire <br>
 - SWDT switch <br>
 - 5mm LED <br>
+
 </td><td>
+
 <img src="oneledbb_step1_parts.png">
 <br><br>
+  
 </td></tr>
+<tr><td width="20%" valign="top">
 
-<tr><td width=20% valign=top>
 STEP 1<br>Assemble parts on the mini breadboard
+
 </td><td>
+
 <img src="oneledbb_step2_build.png">
 <br><br>
-</td></tr>
 
-<tr><td width=20% valign=top>
+</td></tr>
+<tr><td width="20%" valign="top">
+
 STEP 2<br>Complete the one LED circuit
+
 </td><td>
+
 <img src="oneledbb_step3_done.png">
 <br><br>
-</td></tr>
 
-<tr><td width=20% valign=top>
+</td></tr>
+<tr><td width="20%" valign="top">
 
 STEP 3<br>Turn switch on to test
+
 </td><td>
+
 <img src="oneledbb_step4_test.png">
 <br><br>
   
