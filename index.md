@@ -49,6 +49,14 @@ and a piezoelectric speaker. Three 8x8 LED matrix modules with MAX7219 controlle
 Code and circuit schematics used for teaching the Boy Scouts Electronics Merit Badge class. These coding exercises and circuits are an introduction to Arduino and electronics.
 
 
+<br><br><br>
+
+<a href="https://github.com/mtejada11/oneledbb">
+<img src="https://github.com/mtejada11/mtejada11.github.io/raw/master/oneledbb/oneledbb.png" width=130px><br>
+<b>OneLedBB</b>
+</a><br>
+Quick one-LED educational project than can used as first step in an introduction to electronics. 
+
 </td></tr></table>
 
 ## Videos
