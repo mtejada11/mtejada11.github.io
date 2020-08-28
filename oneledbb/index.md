@@ -2,6 +2,8 @@
 
 This is a quick educational project than can be an introduction to electronics. This project only takes a few minutes to assemble. It's also a good, quick project for a large group activity.
 
+<br>
+
 <table>
 <tr><td width="25%" style="border:none;" valign="top">
 
@@ -65,7 +67,7 @@ Turn switch on to test<br>
 </td><td style="border:none;" valign="top">
 
 <img src="oneledbb_step4_test.png">
-<br><br>
+<br>
   
 </td></tr>
 </table>
