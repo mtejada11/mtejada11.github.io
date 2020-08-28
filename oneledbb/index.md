@@ -19,7 +19,7 @@ PARTS<br>
 
 <tr><td width=20% valign=top>
 STEP 1<br>Assemble parts on the mini breadboard
-</td><td style="margin:0px;padding:0px;">
+</td><td>
 <img src="oneledbb_step2_build.png">
 <br><br>
 </td></tr>
