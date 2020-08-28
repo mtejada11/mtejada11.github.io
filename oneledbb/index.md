@@ -16,7 +16,7 @@ PARTS<br>
 - SWDT switch <br>
 - 5mm LED <br>
 <br>
-Note: 22 AWG solid code works best for breadboards<br>
+<b>Note:</b> 22 AWG solid code works best for breadboards<br>
 </td><td>
 
 <img src="oneledbb_step1_parts.png">
@@ -28,7 +28,7 @@ Note: 22 AWG solid code works best for breadboards<br>
 <br>
 STEP 1<br>Assemble parts on the mini breadboard<br>
 <br>
-Note: Make sure parts are inserted in exact same location as diagram<br>
+<b>Note:</b> Insert parts as indicated by the column numbers in the diagram<br>
 
 </td><td>
 
@@ -41,7 +41,7 @@ Note: Make sure parts are inserted in exact same location as diagram<br>
 <br>
 STEP 2<br>Add CR2032 coin cell to complete the one LED circuit<br>
 <br>
-Note: Make sure positive (+) side of coin cell faces up<br>
+<b>Note:</b> Make sure positive (+) side of coin cell faces up<br>
 
 </td><td>
 
@@ -54,7 +54,7 @@ Note: Make sure positive (+) side of coin cell faces up<br>
 <br>
 STEP 3<br>Turn switch on to test<br>
 
-<p style="color:red;"><b>Electric current will flow in direction of red arrows</b></p><br>
+<p style="color:red;"><b>Electric current will flow in direction of the red arrows</b></p><br>
 
 </td><td>
 
@@ -74,8 +74,8 @@ If you build this with children, mind the coin cell holder pins and the LED pins
 
 # How to Teach this Project
 
-If you would like to teach this, you can use this set of <a href="https://bit.ly/2YEv6Cs">OneLedBB instructional slides"</a> as you explain how to build and how electric current flows.
+If you would like to teach this, you can use this set of <a href="https://bit.ly/2YEv6Cs">OneLedBB instructional slides</a> as you explain how to build and how electric current flows. You are welcome to copy and adapt these slides.
 
-If you will be teaching this project to a large number of students, you will find that by buying all the parts in larger packages will result in the cost per student on the order of $1 to $2 USD.
+If you will be teaching this project to a large number of students, you will find that by buying all the parts in larger packages will result in the cost per student on the order of $1 to $2 USD. It's also useful to give small zip-lock bags so that students can take their circuits home and not lose any parts.
 
-When buying the parts needed, it is possible to buy pre-cut wires in bulk. Buying the pre-cut wires in bulk makes preparation for a large number of students easy. Go to the <a href="https://www.digikey.com/">Digi-Key Electronics</a> and search for "3M jumper wire". The bulk wire packages for this project are: <a href="https://www.digikey.com/product-detail/en/3m/923345-09-C/923345-09-ND/12206">3M JUMPER PREFORM 0.9" 22AWG 150PCS 923345-09-ND</a>, <a href="https://www.digikey.com/product-detail/en/3m/923345-10-C/923345-10-ND/12207">3M JUMPER PREFORM 1" 22AWG 100PCS 923345-10-ND</a>
+When buying the parts needed, it's possible to buy pre-cut wires in bulk. Buying the pre-cut wires makes preparation for a large number of students easy. Go to the <a href="https://www.digikey.com/">Digi-Key Electronics</a> and search for "3M jumper wire". The bulk wire packages for this project are: <a href="https://www.digikey.com/product-detail/en/3m/923345-09-C/923345-09-ND/12206">3M JUMPER PREFORM 0.9" 22AWG 150PCS 923345-09-ND</a>, <a href="https://www.digikey.com/product-detail/en/3m/923345-10-C/923345-10-ND/12207">3M JUMPER PREFORM 1" 22AWG 100PCS 923345-10-ND</a>.
