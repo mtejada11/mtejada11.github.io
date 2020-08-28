@@ -29,8 +29,8 @@ A</td></tr>
 PARTS<br>
 - CR2032 coin cell <br>
 - coin cell holder <br>
-- 0.9" wire <br>
-- 1.0" wire <br>
+- 0.9&quot; wire <br>
+- 1.0&quot; wire <br>
 - SWDT switch <br>
 - 5mm LED <br>
 </td><td>
