@@ -34,6 +34,8 @@ It's a good device for coding exercises.
 <br>
 <br>
 <br>
+<br>
+<br>
 
 <a href="https://mtejada11.github.io/bbgame248">
 <img src="https://github.com/mtejada11/BBGame248/raw/master/Build/BBGame248.png" width=380px><br>
@@ -52,7 +54,7 @@ and a piezoelectric speaker. Three 8x8 LED matrix modules with MAX7219 controlle
 Code and circuit schematics used for teaching the Boy Scouts Electronics Merit Badge class. These coding exercises and circuits are an introduction to Arduino and electronics.
 
 
-<br><br><br>
+<br><br><br><br>
 
 <a href="https://github.com/mtejada11/oneledbb">
 <img src="https://github.com/mtejada11/mtejada11.github.io/raw/master/oneledbb/oneledbb.png" width=130px><br>
