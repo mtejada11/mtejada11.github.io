@@ -53,8 +53,8 @@ Note: Make sure positive (+) side of coin cell faces up<br>
 
 <br>
 STEP 3<br>Turn switch on to test<br>
-<br>
-<p style="color:red;">Electrical current will flow in direction of red arrows</p><br>
+
+<p style="color:red;"><b>Electric current will flow in direction of red arrows</b></p><br>
 
 </td><td>
 
