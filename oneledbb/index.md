@@ -82,12 +82,12 @@ When buying the parts needed, it's possible to buy pre-cut wires in bulk. Buying
 
 ## Photos
 
-<table style="border:none;margin:0px;padding:0px;"><tr style="border:none;margin:0px;padding:0px;vertical-align:top;"><td style="border:none;margin:0px;padding:0px;vertical-align:top;" width=390px>
+<table style="border:none;margin:0px;padding:0px;"><tr style="border:none;margin:0px;padding:0px;vertical-align:top;"><td style="border:none;margin:0px;padding:0px;vertical-align:top;">
 
-<img src="oneledbb_photo.jpg" width=351px><br>
+<img src="oneledbb_photo.jpg" width=330px><br>
 
-</td><td style="border:none;margin:0px;padding:0px;" width=40px></td><td style="border:none;margin:0px;padding:0px;vertical-align:top;" width=390px>
+</td><td style="border:none;margin:0px;padding:0px;" width=20px></td><td style="border:none;margin:0px;padding:0px;vertical-align:top;">
 
-<img src="oneledbb_photo_34angle.jpg" width=351px><br>
+<img src="oneledbb_photo_34angle.jpg" width=330px><br>
 
 </td></tr></table>
