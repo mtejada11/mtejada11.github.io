@@ -1,6 +1,7 @@
 ## One LED on Mini Breadboard
 
 This is a quick educational project than can be an introduction to electronics. This project only takes a few minutes to assemble. It's also a good, quick project for a large group activity.
+
 <table>
   
 <tr><td width=20% valign=top>
@@ -8,19 +9,15 @@ E</td><td>
 D</td></tr>
 
 <tr><td width=20% valign=top>
-STEP 1<br>Assemble parts on the mini breadboard
-</td><td>
+F</td><td>
 C</td></tr>
 
 <tr><td width=20% valign=top>
-STEP 2<br>Complete the one LED circuit
-</td><td>
+G</td><td>
 B</td></tr>
 
 <tr><td width=20% valign=top>
-
-STEP 3<br>Turn switch on to test
-</td><td>
+H</td><td>
 A</td></tr>
 </table>
 
