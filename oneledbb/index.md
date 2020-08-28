@@ -9,8 +9,9 @@ This is a quick educational project than can be an introduction to electronics. 
 PARTS<br>
 - CR2032 coin cell <br>
 - coin cell holder <br>
-- 0.9&quot; wire <br>
-- 1.0&quot; wire <br>
+- double-side tape <br>
+- 0.9&quot; 22 AWG solid code wire <br>
+- 1.0&quot; 22 AWG solid code wire <br>
 - SWDT switch <br>
 - 5mm LED <br>
 
