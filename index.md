@@ -56,7 +56,7 @@ Code and circuit schematics used for teaching the Boy Scouts Electronics Merit B
 
 <br><br><br><br>
 
-<a href="https://github.com/mtejada11/oneledbb">
+<a href="https://mtejada11.github.io/oneledbb">
 <img src="https://github.com/mtejada11/mtejada11.github.io/raw/master/oneledbb/oneledbb.png" width=130px><br>
 <b>OneLedBB</b>
 </a><br>
