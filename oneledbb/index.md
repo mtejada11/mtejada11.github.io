@@ -3,8 +3,9 @@
 This is a quick educational project than can be an introduction to electronics. This project only takes a few minutes to assemble. It's also a good, quick project for a large group activity.
 
 <table>
-<tr><td width="20%" valign="top">
-  
+<tr><td width="25%" valign="top">
+
+<br>
 PARTS<br>
 - CR2032 coin cell <br>
 - coin cell holder <br>
@@ -19,8 +20,9 @@ PARTS<br>
 <br><br>
   
 </td></tr>
-<tr><td width="20%" valign="top">
+<tr><td width="25%" valign="top">
 
+<br>
 STEP 1<br>Assemble parts on the mini breadboard
 
 </td><td>
@@ -29,8 +31,9 @@ STEP 1<br>Assemble parts on the mini breadboard
 <br><br>
 
 </td></tr>
-<tr><td width="20%" valign="top">
+<tr><td width="25%" valign="top">
 
+<br>
 STEP 2<br>Complete the one LED circuit
 
 </td><td>
@@ -39,8 +42,9 @@ STEP 2<br>Complete the one LED circuit
 <br><br>
 
 </td></tr>
-<tr><td width="20%" valign="top">
+<tr><td width="25%" valign="top">
 
+<br>
 STEP 3<br>Turn switch on to test
 
 </td><td>
