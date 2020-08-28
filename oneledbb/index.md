@@ -74,4 +74,8 @@ If you build this with children, mind the coin cell holder pins and the LED pins
 
 # How to Teach this Project
 
-If you would like to teach this, it is possible to buy all the parts in quantity and achieve a cost of $1 USD per student. 
+If you would like to teach this, you can use this set of <a href="https://bit.ly/2YEv6Cs">OneLedBB instructional slides"</a> as you explain how to build and how electric current flows.
+
+If you will be teaching this project to a large number of students, you will find that by buying all the parts in larger packages will result in the cost per student on the order of $1 to $2 USD.
+
+When buying the parts needed, it is possible to buy pre-cut wires in bulk. Buying the pre-cut wires in bulk makes preparation for a large number of students easy. Go to the <a href="https://www.digikey.com/">Digi-Key Electronics</a> and search for "3M jumper wire". The bulk wire packages for this project are: <a href="https://www.digikey.com/product-detail/en/3m/923345-09-C/923345-09-ND/12206">3M JUMPER PREFORM 0.9" 22AWG 150PCS 923345-09-ND</a>, <a href="https://www.digikey.com/product-detail/en/3m/923345-10-C/923345-10-ND/12207">3M JUMPER PREFORM 1" 22AWG 100PCS 923345-10-ND</a>
