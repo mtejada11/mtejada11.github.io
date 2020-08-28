@@ -6,8 +6,8 @@ This is a quick educational project than can be an introduction to electronics. 
 <tr><td width="25%" valign="top">
 
 <br>
-PARTS<br>
-
+<b>PARTS</b><br>
+<br>
 - CR2032 coin cell <br>
 - coin cell holder <br>
 - double-side tape <br>
@@ -26,7 +26,9 @@ PARTS<br>
 <tr><td width="25%" valign="top">
 
 <br>
-STEP 1<br>Assemble parts on the mini breadboard<br>
+<b>STEP 1</b><br>
+<br>
+Assemble parts on the mini breadboard<br>
 <br>
 <b>Note:</b> Insert parts as indicated by the column numbers in the diagram<br>
 
@@ -39,7 +41,9 @@ STEP 1<br>Assemble parts on the mini breadboard<br>
 <tr><td width="25%" valign="top">
 
 <br>
-STEP 2<br>Add CR2032 coin cell to complete the one LED circuit<br>
+<b>STEP 2</b><br>
+<br>
+Add CR2032 coin cell to complete the one LED circuit<br>
 <br>
 <b>Note:</b> Make sure positive (+) side of coin cell faces up<br>
 
@@ -52,7 +56,9 @@ STEP 2<br>Add CR2032 coin cell to complete the one LED circuit<br>
 <tr><td width="25%" valign="top">
 
 <br>
-STEP 3<br>Turn switch on to test<br>
+<b>STEP 3</b><br>
+<br>
+Turn switch on to test<br>
 
 <p style="color:red;"><b>Electric current will flow in direction of the red arrows</b></p><br>
 
