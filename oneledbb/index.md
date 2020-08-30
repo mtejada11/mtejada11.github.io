@@ -82,15 +82,24 @@ Turn switch on to test<br>
 
 Obtain the parts and build as shown above. Note that a current limiting resistor is not needed for the LED in this configuration. The reason is that CR2032 coin cell batteries have internal resistance and have a voltage that is close to the LED's forward voltage. (With other types of batteries or power sources, a current limiting resistor is required for an LED.)
 
-The parts can be purchased on sites such as Amazon.com. Search for "2032 coin cell", "2032 coin cell holder", "170 point breadboard", "mini SPDT switch SS12D00G3" and "5mm LED". Some points to take into account: (1) coin cell holder should not have a strong clip that will make it difficult to insert remove the coin cell, (2) SPDT switch should only have three pins and no other protrusions, and the pins should be 0.1" apart, (3) LED can generally be any color 5mm LED.
+The parts can be purchased on sites such as Amazon.com. Search for "2032 coin cell", "2032 coin cell holder", "170 point breadboard", "mini SPDT switch SS12D00G3" and "5mm LED". 
 
-If you build this with children, mind the coin cell holder pins and the LED pins. The coin cell holder should be glued or securely attached to the breadboard with double-sided tape. The mini breadboards have adhesive on the bottom, and they can, for example, be attached to LEGO plates.
+Some points to take into account:
+- Coin cell holder should not have a strong clip that will make it difficult to insert and remove the coin cell
+- SPDT switch should only have three pins and no other protrusions and the pins should be 0.1" apart
+- LED can generally be any color 5mm LED
+- Note the orientation of the LED positive (+) and negative (-) pins
+- Use 22 AWG solid core wire and strip the ends using a wire stripper
+- Insert parts as indicated by the column numbers in the diagram in Step 1
+- When inserting the coin cell into the holder, make sure that the positive (+) side faces up
+
+If you build this with children, mind the coin cell holder pins and the LED pins. The coin cell holder should be glued or securely attached to the breadboard with double-sided tape. The mini breadboards have adhesive on the bottom, and after building they can, for example, be attached to LEGO plates.
 
 ## How to Teach this Project
 
-If you would like to teach this, you can use this set of <a href="https://bit.ly/2YEv6Cs">OneLedBB instructional slides</a> as you explain how to build and how electric current flows. You are welcome to copy and adapt these slides.
+If you would like to teach this project, you can use these slides: <a href="https://bit.ly/2YEv6Cs"><b>OneLedBB instructional slides</b></a> to show how to build and to explain how electric current flows. You are welcome to copy and adapt these slides.
 
-If you will be teaching this project to a large number of students, you will find that by buying all the parts in larger packages will result in the cost per student on the order of $1 to $2 USD. It's also useful to give small zip-lock bags so that students can take their circuits home and not lose any parts.
+If you will be teaching this project to a large number of students, you will find that buying all the parts in larger packages will result in the cost per student on the order of $1 to $2 USD. It's also useful to give small zip-lock bags so that students can take their circuits home and not lose any parts.
 
 When buying the parts needed, it's possible to buy pre-cut wires in bulk. Buying the pre-cut wires makes preparation for a large number of students easy. Go to the <a href="https://www.digikey.com/">Digi-Key Electronics</a> and search for "3M jumper wire". The bulk wire packages for this project are: <a href="https://www.digikey.com/product-detail/en/3m/923345-09-C/923345-09-ND/12206">3M JUMPER PREFORM 0.9" 22AWG 150PCS 923345-09-ND</a>, <a href="https://www.digikey.com/product-detail/en/3m/923345-10-C/923345-10-ND/12207">3M JUMPER PREFORM 1" 22AWG 100PCS 923345-10-ND</a>.
 
