@@ -2,7 +2,7 @@
 
 These are open source and open hardware projects that I've published on GitHub.
 
-<table style="border:none;margin:0px;padding:0px;"><tr style="border:none;margin:0px;padding:0px;"><td style="border:none;margin:0px;padding:0px;" width=390pxWork Experience
+<table style="border:none;margin:0px;padding:0px;"><tr style="border:none;margin:0px;padding:0px;"><td style="border:none;margin:0px;padding:0px;" width=390px>
 <b>WORK EXPERIENCE</b>
 </a><br>
 ABC
