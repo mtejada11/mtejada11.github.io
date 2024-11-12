@@ -1,4 +1,5 @@
-# Mauricio Tejada Palacios<br>マウリシオ・テハダ・パラシオス
+# Mauricio Tejada Palacios
+## Mauricio Tejada Palacios<br>マウリシオ・テハダ・パラシオス
 
 These are open source and open hardware projects that I've published on GitHub.
 
