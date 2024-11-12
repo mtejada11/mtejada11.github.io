@@ -3,14 +3,14 @@
 
 <table style="border:none;margin:0px;padding:0px;"><tr style="border:none;margin:0px;padding:0px;"><td style="border:none;margin:0px;padding:0px;" width=390px>
 <b>WORK EXPERIENCE</b>
-
-**Geo Search・Senior Software Engineer**
-2020/11 to present, Tokyo, Japan (part-time, remote)
-•	Designed and developed Linux cluster for AI processing
-•	Python, ZeroMQ, MySQL, Linux, Docker
-•	Wrote technical documents in English, Japanese
-
-**Schlumberger IPC・Senior Software Engineer**
+<br>
+**Geo Search・Senior Software Engineer**<br>
+2020/11 to present, Tokyo, Japan (part-time, remote)<br>
+•	Designed and developed Linux cluster for AI processing<br>
+•	Python, ZeroMQ, MySQL, Linux, Docker<br>
+•	Wrote technical documents in English, Japanese<br>
+<br>
+**Schlumberger IPC・Senior Software Engineer**<br>
 2012/02 to 2023/08, Sugar Land, Texas, USA<br>
 •	Control algorithms, software for oilfield mechanical tools<br>
 •	Control software, UI for manufacturing equipment<br>
