@@ -1,1 +1,1 @@
-<embed src="https://mtejada11.github.io/Mauricio_Tejada_2024_10_07b.pdf" type="application/pdf"/>
+<embed src="https://mtejada11.github.io/Mauricio_Tejada_2024_10_07b.pdf" type="application/pdf"/ width="100%">
